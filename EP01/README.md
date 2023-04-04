@@ -76,6 +76,11 @@ Para o grafo abaixo, considerando que *q_list* = [E,F,G,H] e *t* = 500, o quarte
 
 ![Screenshot](s-u-w-cy-sc-p-01.jpg)
 
+**Arquivos**:
+* EP01/src/Q02.py (local onde a função deve ser construída)
+* EP01/tests/test_Q02.py (testes automáticos)
+* EP01/main_EP01_Q02.py (exemplo de uso da função)
+
 ## Questão 03
 
 Escreva a função **graph_density** que recebe um grafo qualquer como entrada (direcionado estrito ou não-direcionado simples) e retorna a densidade do grafo de acordo com o seu tipo. O resultado deve ser um float arrendondado para 2 casas decimais.
@@ -83,6 +88,11 @@ Escreva a função **graph_density** que recebe um grafo qualquer como entrada (
 Com exemplo, considere o grafo de Petersen (Gerador petersen_graph). A densidade deste grafo é 0.33333333... A função deve retornar 0.33.
 
 ![Screenshot](petersen-label.jpg)
+
+**Arquivos**:
+* EP01/src/Q03.py (local onde a função deve ser construída)
+* EP01/tests/test_Q03.py (testes automáticos)
+* EP01/main_EP01_Q03.py (exemplo de uso da função)
 
 ## Questão 04
 
@@ -99,6 +109,11 @@ a rota será (n0, n1, n2, n3, n4).
 
 ![Screenshot](formigueiro.jpg)
 
+**Arquivos**:
+* EP01/src/Q04.py (local onde a função deve ser construída)
+* EP01/tests/test_Q04.py (testes automáticos)
+* EP01/main_EP01_Q04.py (exemplo de uso da função)
+
 ## Questão 05
 
 Um grafo de palavras é um pseudografo direcionado que pode ser utilizado para reconhecer ou gerar palavras de uma certa linguagem. Neste grafo, vértices representam posições a partir das quais certos caracteres são válidos. Existem dois vértices especiais: inicial, onde a operação inicia, e final, onde é concluída com sucesso. Cada arco possui um caracter associado, representando um próximo caracter válido. Uma palavra é reconhecida pelo grafo se for possível encontrar um passeio, do vértice inicial ao vértice final, onde o próximo arco a ser seguido deve conter o caracter da palavra que está sendo analisado. Caso o passeio não termine no vértice final, então a palavra não é reconhecida. O passeio termina ou quando a palavra já foi completamente analisada ou quando não há um arco que possa ser seguido considerando o caracter que está sendo analisado.
@@ -113,5 +128,10 @@ A função retorna *True* se a palavra é reconhecida e *False*, caso contrário
 Para o grafo de palavras apresentado abaixo, observe que o grafo reconhece a palavra 'aabbc'. Partindo do vértice 0, considerando o primeiro caracter, 'a', o passeio segue pelo arco de label 'a', chegando no vértice 1. Como o próximo caracter é 'a', o passeio agora seguirá pelo arco correspondente, tendo como destino o vértice 1. O próximo caracter é o 'b'. Neste caso, o passeio segue pelo arco correspondente, tendo como destino o vértice 2. Em seguida, com o caracter 'b', vai para o vértice 2 pelo arco correspondente. Por fim, devido ao caracter 'c' chega no vértice 3. Neste ponto, a palavra já foi toda processada e o vértice atingido é o final. Assim, a palavra é reconhecida como válida e a função deve retornar *True*.
 
 ![Screenshot](automata01.jpg)
+
+**Arquivos**:
+* EP01/src/Q05.py (local onde a função deve ser construída)
+* EP01/tests/test_Q05.py (testes automáticos)
+* EP01/main_EP01_Q05.py (exemplo de uso da função)
 
 
