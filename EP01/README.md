@@ -78,7 +78,7 @@ Para o grafo abaixo, considerando que *q_list* = [E,F,G,H] e *t* = 500, o quarte
 
 **Arquivos**:
 * EP01/src/Q02.py (local onde a função deve ser construída)
-* EP01/tests/test_Q02.py (testes automáticos)
+* EP01/test/test_Q02.py (testes automáticos)
 * EP01/main_EP01_Q02.py (exemplo de uso da função)
 
 ## Questão 03
