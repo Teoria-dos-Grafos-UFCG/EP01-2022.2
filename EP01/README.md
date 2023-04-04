@@ -59,7 +59,7 @@ Para esta lista, o grafo resultante terá o seguinte conjunto de vértices (G.no
 
 **Arquivos**:
 * EP01/src/Q01.py (local onde a função deve ser construída)
-* EP01/tests/test_Q01.py (testes automáticos)
+* EP01/test/test_Q01.py (testes automáticos)
 * EP01/main_EP01_Q01.py (exemplo de uso da função)
 
 ## Questão 02:
@@ -91,7 +91,7 @@ Com exemplo, considere o grafo de Petersen (Gerador petersen_graph). A densidade
 
 **Arquivos**:
 * EP01/src/Q03.py (local onde a função deve ser construída)
-* EP01/tests/test_Q03.py (testes automáticos)
+* EP01/test/test_Q03.py (testes automáticos)
 * EP01/main_EP01_Q03.py (exemplo de uso da função)
 
 ## Questão 04
@@ -111,7 +111,7 @@ a rota será (n0, n1, n2, n3, n4).
 
 **Arquivos**:
 * EP01/src/Q04.py (local onde a função deve ser construída)
-* EP01/tests/test_Q04.py (testes automáticos)
+* EP01/test/test_Q04.py (testes automáticos)
 * EP01/main_EP01_Q04.py (exemplo de uso da função)
 
 ## Questão 05
@@ -131,7 +131,7 @@ Para o grafo de palavras apresentado abaixo, observe que o grafo reconhece a pal
 
 **Arquivos**:
 * EP01/src/Q05.py (local onde a função deve ser construída)
-* EP01/tests/test_Q05.py (testes automáticos)
+* EP01/test/test_Q05.py (testes automáticos)
 * EP01/main_EP01_Q05.py (exemplo de uso da função)
 
 
