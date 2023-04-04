@@ -21,7 +21,7 @@ Este repositório apresenta um template para a execução da avaliação EP01. O
 **Entrega:**
 
 * Realizar push do repositório até o prazo definido no classroom;
-* A participação de cada membro será comprovada através do histórico de edições e commits do repositório. A nota será apenas para aqueles que não editarem efetivamente o repositório
+* A participação de cada membro será comprovada através do histórico de edições e commits do repositório. A nota será apenas para aqueles que editarem efetivamente o repositório
 * Caso o repositório seja editado após o prazo para entrega, a atividade será considerada como reposição.
 
 ## Questão 01:
