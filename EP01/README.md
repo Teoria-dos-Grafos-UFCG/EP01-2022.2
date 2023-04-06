@@ -37,10 +37,6 @@ Um exemplo de uma lista que pode ser usada como entrada:
             ('Rafferty', 'Stoak', 'Canada'),
             ('Libbey', 'Anselm', 'Canada'),
             ('Odelinda', 'Thireau', 'Italy'),
-            ('Rick', 'Caset', 'Canada'),
-            ('Matthew', 'Fearnyough', 'Canada'),
-            ('Madonna', 'Brazener', 'Canada'),
-            ('Laure', 'Drohane', 'Canada'),
             ('Eleanore', 'Pollett', 'USA'),
             ('Town', 'Duddell', 'Canada')
       ]
